@@ -14,4 +14,4 @@ associated tutorial on YouTube found on [my channel](https://www.youtube.com/cha
 
 ## Suggestions
 
-If you have any suggestions, please email me at [mailto:micah@micah.cc](micah@micah.cc)!
+If you have any suggestions, please email me at micah@micah.cc!
